@@ -1,0 +1,12 @@
+@charset "utf-8";
+#cuerpo {
+	width: 1000px;
+}
+#grafico {
+	width: 500px;
+	float: left;
+}
+#texto1 {
+	width: 500px;
+	float: right;
+}
